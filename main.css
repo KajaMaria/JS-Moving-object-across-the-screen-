@@ -1,0 +1,17 @@
+h1 {
+  color: teal;
+}
+
+#ball {
+  /* Set the width and height to make a square */
+  height: 150px;
+  width: 150px;
+
+  background-color: orange;
+  border-radius: 50%;
+
+  position: absolute;
+}
+button {
+  margin: 200px;
+}
